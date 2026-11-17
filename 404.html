@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <title>Triage Desk</title>
+    <style>body{font:16px/1.5 system-ui,sans-serif;max-width:40rem;margin:3rem auto;padding:0 1rem;color:#1f2328;background:#fff}@media(prefers-color-scheme:dark){body{color:#e6edf3;background:#0d1117}a{color:#58a6ff}}</style>
+    <script>
+      (function () {
+        var base = "/triage-status";
+        var path = location.pathname;
+        var rest = path.indexOf(base + '/') === 0 ? path.slice(base.length).replace(/\/+$/, '') : '';
+        var to = "https://oleg-traige-desk.runailabs.com" + (rest ? '/repos' + rest : '/');
+        location.replace(to + location.search + location.hash);
+      })();
+    </script>
+  </head>
+  <body>
+    <p><a href="https://oleg-traige-desk.runailabs.com/">Open Triage Desk</a></p>
+  </body>
+</html>
