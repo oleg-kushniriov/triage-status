@@ -1,14 +1,14 @@
 {
-  "publishedAt": "2026-11-17T08:20:50.965Z",
-  "fingerprint": "47f893d703225ec994ddd6553343ecb17765e109691bb94e7835aa44bb6f7f27",
+  "publishedAt": "2026-11-17T10:16:06.275Z",
+  "fingerprint": "d4a6930c5683bd01d4c0580f72b61a7f82676de2835129098c2b136223b840b9",
   "dashboard": "https://oleg-traige-desk.runailabs.com",
   "repositories": [
     {
       "repo": "ai-dynamo/grove",
       "url": "https://oleg-kushniriov.github.io/triage-status/ai-dynamo/grove/",
       "pullRequests": {
-        "overdue": 27,
-        "aging": 3,
+        "overdue": 30,
+        "aging": 0,
         "needsReply": 5,
         "waitingOnAuthor": 9,
         "total": 44
