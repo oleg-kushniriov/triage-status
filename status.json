@@ -1,24 +1,60 @@
 {
-  "publishedAt": "2026-11-18T16:43:23.528Z",
-  "fingerprint": "9b4d64c3b408c792ff9c8fff494bd6ce329d0a1f7fa03cf86f1923041f245235",
+  "publishedAt": "2026-11-19T07:52:18.799Z",
+  "fingerprint": "037b934609e6ec5bcf73753eed6b67edf53b8c5a2408672df1932dd01c07b3f0",
   "dashboard": "https://oleg-traige-desk.runailabs.com",
   "repositories": [
     {
       "repo": "ai-dynamo/grove",
       "url": "https://oleg-kushniriov.github.io/triage-status/ai-dynamo/grove/",
       "pullRequests": {
-        "overdue": 28,
-        "aging": 2,
-        "needsReply": 2,
-        "waitingOnAuthor": 11,
-        "total": 43
+        "overdue": 30,
+        "aging": 1,
+        "needsReply": 1,
+        "waitingOnAuthor": 10,
+        "total": 42
       },
       "issues": {
         "overdue": 0,
         "aging": 0,
         "needsReply": 9,
-        "waitingOnAuthor": 30,
-        "total": 39
+        "waitingOnAuthor": 29,
+        "total": 38
+      }
+    },
+    {
+      "repo": "ai-dynamo/snapshot",
+      "url": "https://oleg-kushniriov.github.io/triage-status/ai-dynamo/snapshot/",
+      "pullRequests": {
+        "overdue": 4,
+        "aging": 1,
+        "needsReply": 0,
+        "waitingOnAuthor": 12,
+        "total": 17
+      },
+      "issues": {
+        "overdue": 0,
+        "aging": 0,
+        "needsReply": 6,
+        "waitingOnAuthor": 22,
+        "total": 28
+      }
+    },
+    {
+      "repo": "kai-scheduler/gpu-fractioning",
+      "url": "https://oleg-kushniriov.github.io/triage-status/kai-scheduler/gpu-fractioning/",
+      "pullRequests": {
+        "overdue": 5,
+        "aging": 0,
+        "needsReply": 0,
+        "waitingOnAuthor": 1,
+        "total": 6
+      },
+      "issues": {
+        "overdue": 3,
+        "aging": 0,
+        "needsReply": 0,
+        "waitingOnAuthor": 5,
+        "total": 8
       }
     }
   ]
